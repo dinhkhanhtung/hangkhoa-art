@@ -11,9 +11,6 @@ const nextConfig = {
         hostname: 'lh3.googleusercontent.com',
       },
     ],
-  },
-  turbopack: {
-    root: __dirname
   }
 }
 
